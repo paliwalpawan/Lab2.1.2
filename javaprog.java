@@ -1,9 +1,10 @@
 
-class javaprog (
-public static void main (string [] args) {
+class Javaprog {
+public static void main (String [] args) {
 
-system.out.ln("Print Hello World")
-system.out.ln("Printing Hellow world for bitbucket")
+System.out.println("Print Hello World");
+System.out.println("Printing Hellow world for bitbucket");
 
 }
-)
+}
+    
