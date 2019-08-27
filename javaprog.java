@@ -18,7 +18,7 @@ class Javaprog {
 public static void main (String [] args) {
 
 System.out.println("Print Hello World");
-System.out.println("Printing Hellow world for bitbucket");
+System.out.println("Printing Hellow world for bitbucket")
 >>>>>>> b038e360fde58ad23aeb8ab14d4560f291cad27e
 
 System.out.println("Print for Jenkins");
